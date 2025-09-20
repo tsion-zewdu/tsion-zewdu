@@ -26,7 +26,7 @@ Implemented role-based login for Patients, Doctors, and Admins.
 
 <p align="center">
 Home page: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/GecEqW3)"/>
+<img src="https://imgur.com/a/GecEqW3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
