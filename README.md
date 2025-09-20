@@ -42,7 +42,7 @@ Admin Dashboard:  <br/>
 <img src="https://i.imgur.com/qNIs1n9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+</p>
 
 <!--
  ```diff
