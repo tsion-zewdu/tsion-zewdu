@@ -6,6 +6,7 @@
 The Healthcare Harmony: Appointment Management System is a standalone subcomponent that can be integrated into a larger Hospital Management System. Its primary goal is to digitize and streamline the appointment booking process, allowing patients to schedule consultations online from their homes or workplaces.
 <br />
 Developed a secure, multi-user system for scheduling and managing medical appointments. 
+<br />
 Implemented role-based login for Patients, Doctors, and Admins. 
 <br />
 
@@ -18,14 +19,14 @@ Implemented role-based login for Patients, Doctors, and Admins.
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Home page: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/a/GecEqW3)"/>
 <br />
 <br />
 Select the disk:  <br/>
