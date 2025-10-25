@@ -37,7 +37,7 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
   <img src="https://skillicons.dev/icons?i=java,python,django,html,css,javascript,mysql,react,nodejs,git,github,vscode,linux" />
 </p>
 
----
+
 
 <!--###  My GitHub Stats
 
@@ -52,7 +52,7 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 
 | Project | Description | Tech Used |
 |----------|--------------|------------|
-| [🏥 Healthcare Appointment Management System](https://sites.google.com/view/tsionzewduzegeye/my-portfolio?authuser=0) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
+| [🏥 Healthcare Appointment Management System](https://github.com/tsion-zewdu/tsion-zewdu0) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
 | [📝 Django Blog App]<!--(https://github.com/tsionzewdu/Django-Blog)--> | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
 
 ---
