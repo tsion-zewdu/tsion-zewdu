@@ -34,7 +34,7 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,javascript,mysql,react,nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
 
