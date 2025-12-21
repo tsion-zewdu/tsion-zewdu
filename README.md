@@ -52,6 +52,7 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 
 | Project | Description | Tech Used |
 |----------|--------------|------------|
+| [🏥 Personal Finance Tracker](https://github.com/tsion-zewdu/Personal-finance-tracker) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A personal finance tracker is a tool that helps you monitor, manage, and optimize your income, expenses, and savings to achieve better financial control and goals. | Django, python, Bootstrap |
 | [🏥 Healthcare Appointment Management System](https://github.com/tsion-zewdu/tsion-zewdu0) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
 | [📝 Django Blog App]<!--(https://github.com/tsionzewdu/Django-Blog)--> | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
 
