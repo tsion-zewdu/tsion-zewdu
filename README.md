@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Tsion Zewdu</h1>
 
-<h3 align="center">💻 4th Year Software Engineering Student at Bahir Dar University | ALX Backend Development Learner | Backend & Full Stack Developer</h3>
+<h3 align="center">💻 Software Engineer | ALX Backend Development | Backend & Full Stack Developer</h3>
 
 ---
 
