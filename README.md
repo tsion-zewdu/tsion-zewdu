@@ -58,8 +58,8 @@ I’m particularly interested in building <strong>web platforms, data-driven app
 
 | Project | Description | Tech Used |
 |----------|--------------|------------|
-| [🏙️ Civic Issues Tracker – YegnaFix](https://github.com/tsion-zewdu/civic-issues-tracker) | An AI-powered and geo-enabled platform that helps citizens report civic issues and enables organizations to manage, track, and resolve them efficiently. | Django, DRF, PostgreSQL, React, TypeScript, AI |
-| [💊 PharmaSupply](https://github.com/tsion-zewdu/PharmaSupply) | A pharmaceutical supply management system designed to improve the management and distribution of pharmaceutical products. | Django, DRF, PostgreSQL |
+| [🏙️ Civic Issues Tracker – YegnaFix](https://github.com/civic-issues-tracker) | An AI-powered and geo-enabled platform that helps citizens report civic issues and enables organizations to manage, track, and resolve them efficiently. | Django, DRF, PostgreSQL, React, TypeScript, AI |
+| [💊 PharmaSupply](https://github.com/pharma-supply) | A pharmaceutical supply management system designed to improve the management and distribution of pharmaceutical products. | Django, DRF, PostgreSQL |
 | [💰 Personal Finance Tracker](https://github.com/tsion-zewdu/Personal-finance-tracker) | A personal finance tracker for monitoring income, expenses, and savings to help users manage their finances and achieve their financial goals. | Django, Python, Bootstrap |
 | [🏥 Healthcare Appointment Management System](https://github.com/tsion-zewdu/healthcare-appointment-system) | A full CRUD system for managing appointments, doctors, and patients. | Java, JDBC, MySQL |
 | [📝 Django Blog App](https://github.com/tsion-zewdu/Myblog) | A blog platform with image upload, comments, and Bootstrap styling. | Python, Django, Bootstrap |
