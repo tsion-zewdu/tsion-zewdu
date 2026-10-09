@@ -16,13 +16,24 @@
 
 <p align="justify">
 
-I’m a <strong>Backend & Full-Stack Developer</strong> and <strong>Software Engineering graduate from Bahir Dar University</strong>, focused on building reliable, scalable, and practical software solutions.
+II’m a <strong>Backend & Full-Stack Developer</strong> and
+<strong>Software Engineering student in Bahir Dar University</strong>,
+passionate about building reliable, scalable, and practical software solutions.
 
-I have hands-on experience with <strong>Python, Django, Django REST Framework, PostgreSQL, JavaScript, Git, and GitHub</strong>, with a strong focus on <strong>backend development, REST APIs, database design, and full-stack applications</strong>.
+I work with <strong>Python, Django, Django REST Framework, PostgreSQL,
+JavaScript, React, and Node.js</strong>, with a strong focus on
+<strong>backend development, REST APIs, database design, and full-stack
+web applications</strong>.
 
-Through my academic projects, <strong>ALX Software Engineering journey</strong>, and <strong>software development internship</strong>, I’ve gained practical experience building real-world applications involving <strong>AI integration, authentication, geolocation, notifications, performance optimization, and team-based development</strong>.
+Through my academic projects, ALX Software Engineering journey, and
+software development internship, I’ve gained practical experience building
+real-world applications involving <strong>AI integration, authentication,
+geolocation, notifications, database design, and performance optimization</strong>.
 
-I enjoy solving real-world problems through technology, writing <strong>clean and maintainable code</strong>, and continuously learning new tools and technologies to grow as a professional developer.
+I enjoy solving real-world problems through technology, writing clean and
+maintainable code, collaborating with teams, and continuously learning
+new technologies to grow as a professional developer.
+
 
 </p>
 
@@ -42,7 +53,7 @@ I’m particularly interested in building <strong>web platforms, data-driven app
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,javascript,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,javascript,react,nodejs,html,css,java,mysql,git,github,vscode" alt="Tech Stack" />
 </p>
 
 <!--### 📊 My GitHub Stats
