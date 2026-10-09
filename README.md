@@ -16,7 +16,7 @@
 
 <p align="justify">
 
-II’m a <strong>Backend & Full-Stack Developer</strong> and
+I’m a <strong>Backend & Full-Stack Developer</strong> and
 <strong>Software Engineering student in Bahir Dar University</strong>,
 passionate about building reliable, scalable, and practical software solutions.
 
@@ -86,7 +86,7 @@ I’m particularly interested in building <strong>web platforms, data-driven app
   <a href="https://www.linkedin.com/in/tsion-zewdu-b3769633b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tsionzewdu@example.com">
+  <a href="mailto:tsionzewdu461@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/tsion-zewdu">
